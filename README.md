@@ -1,46 +1,163 @@
-# Hi 👋, I'm Atheo Jessar R. Caliao
+# Hi there 👋, I'm Atheo Jessar R. Caliao
 
-### An Software Developer
+### 🚀 Full-Stack & Flutter Mobile Developer | AI/ML Enthusiast | BSIT Student
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AtheoJessarRCaliao&label=Profile views&color=0e75b6&style=flat" alt="AtheoJessarRCaliao" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AtheoJessarRCaliao" alt="AtheoJessarRCaliao" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/AjCaliao52809" target="blank"><img src="https://img.shields.io/twitter/follow/AjCaliao52809?logo=twitter&style=for-the-badge" alt="AjCaliao52809" /></a> </p>
-
-- 🔭 I'm currently working on **I'm currently working on Java Project**
-
-- 🌱 I'm currently learning **I'm currently learning PowerBI**
-
-- 👯 I'm looking to collaborate on **I'm looking to collaborate on open source projects**
-
-- 🤝 I'm looking for help with **I'm looking for help with Testing**
-
-- 💬 Ask me about **Ask me about Everything**
-
-- 📫 How to reach me **ajtheo176@gmail.com**
-
-- ⚡ Fun fact ** I Think Love is not for me**
-
-- 👨‍💻 All of my projects are available at **[https://atheojessarrcaliao.github.io/portfolio/z](https://atheojessarrcaliao.github.io/portfolio/z)**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/AtheoJessarRCaliao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AtheoJessarRCaliao" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atheo-jessar-caliao-74536135a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atheo-jessar-caliao-74536135a" height="30" width="40" /></a>
-<a href="https://kaggle.com/atheojessarcaliao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="atheojessarcaliao" height="30" width="40" /></a>
-<a href="https://fb.com/atheo.caliao.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atheo.caliao.7" height="30" width="40" /></a>
-<a href="https://instagram.com/itsurboiyax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsurboiyax" height="30" width="40" /></a>
-<a href="https://twitter.com/AjCaliao52809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AjCaliao52809" height="30" width="40" /></a>
-<a href="https://discord.gg/theeieb2ir_38989" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="theeieb2ir_38989" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AtheoJessarRCaliao&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AtheoJessarRCaliao&show_icons=true&locale=en&layout=compact" alt="AtheoJessarRCaliao" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AtheoJessarRCaliao&show_icons=true&locale=en" alt="AtheoJessarRCaliao" /></p>
+I'm a passionate **4th Year Bachelor of Science in Information Technology** student from the Philippines who enjoys building modern software solutions.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AtheoJessarRCaliao&" alt="AtheoJessarRCaliao" /></p>
+I specialize in **Flutter**, **Firebase**, **Laravel**, and **Artificial Intelligence**, with experience developing mobile applications, web systems, REST APIs, and machine learning projects.
 
+I enjoy solving real-world problems through technology and continuously expanding my knowledge in software engineering, cloud technologies, and AI.
+
+---
+
+## 🔭 Currently Working On
+
+- 📱 AI-powered Healthcare Mobile Application using Flutter
+- ☁️ Firebase Backend Development
+- 🤖 Machine Learning & AI Integration
+- 🌐 Full-Stack Web Applications
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Flutter Architecture
+- Clean Architecture
+- Riverpod / Bloc State Management
+- Docker & Kubernetes
+- Cloud Computing
+- DevOps Fundamentals
+
+---
+
+## 👯 Open to Collaborate On
+
+- Flutter Projects
+- Open Source Projects
+- AI & Machine Learning
+- Web Development
+- REST API Development
+
+---
+
+## 💬 Ask Me About
+
+- Flutter & Dart
+- Firebase
+- Laravel
+- Python
+- Machine Learning
+- REST APIs
+- Git & GitHub
+- Software Development
+
+---
+
+## 📫 Contact Me
+
+📧 **Email:**  
+**ajtheo176@gmail.com**
+
+🌐 **Portfolio:**  
+https://atheojessarrcaliao.github.io/portfolio/
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+<a href="https://github.com/AtheoJessarRCaliao">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/atheo-jessar-caliao-74536135a">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://www.kaggle.com/atheojessarcaliao">
+<img src="https://skillicons.dev/icons?i=kaggle" />
+</a>
+
+<a href="https://facebook.com/atheo.caliao.7">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+### Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,php,java,spring" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb" />
+</p>
+
+### AI / Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn" />
+</p>
+
+### Dev Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AtheoJessarRCaliao&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtheoJessarRCaliao&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtheoJessarRCaliao&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Goals for 2026
+
+- ✅ Contribute to Open Source
+- ✅ Build Production-Ready Flutter Apps
+- ✅ Learn Cloud Technologies
+- ✅ Master Software Architecture
+- ✅ Expand AI & Machine Learning Expertise
+- ✅ Land a Software Engineering Role
+
+---
+
+> *"Code with purpose. Learn continuously. Build solutions that make an impact."* 🚀
